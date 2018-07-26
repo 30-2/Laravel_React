@@ -1,0 +1,42 @@
+.checkin_out_btn{
+    border: 0px !important;
+    background: none !important;
+    color: #000000 !important;
+}
+.checkin_out_btn:nth-child(1){
+    border-bottom: 1px solid black !important;
+}
+.checkin_out_td{
+    padding: 0px !important;
+}
+#footerdiv{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #303030;
+    color: #B5BABA;
+    text-align: center;
+    height: 50px;
+    padding: 12px;
+}
+.outer{
+    margin-bottom: 51px;
+}
+
+.userProfile{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+ .nav{
+    float: right;
+} 
+.last_two_month{
+    background-color:#79baf7 !important;
+}
+.pre_month{
+    background-color:#3cd47b !important;
+}
+.current_month{
+    background-color:#c6da13 !important;
+}

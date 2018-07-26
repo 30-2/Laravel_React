@@ -1,0 +1,36 @@
+#dataStyle {
+	margin-top: 10px;
+}
+#searchStyle #dataTable_length button {
+	margin-left: 20px;
+}
+#searchStyle #dataTable_length input {
+	float: left;
+}
+#collapseOne .col-lg-11 {
+	margin-bottom: 5px;
+}
+#labelStyle {
+	font-size: 20px;
+}
+
+@media only screen and (min-width: 641px) {
+	#searchStyle #dataTable_length input {
+		width: 35%;
+	}
+	.box .col-lg-1 button {
+		margin-top: 10px;
+	}
+	.no-margin-bottom {
+		margin-left: 225px;
+	}
+	#collapseOne .col-lg-11 {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	#searchStyle #dataTable_length input {
+		width: 60%;
+	}
+}

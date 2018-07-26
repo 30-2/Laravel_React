@@ -1,0 +1,26 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import '../lib/font-awesome/css/font-awesome.min.css';
+
+// Themes css
+@import "../css/main.css";
+
+@import '../lib/metismenu/metisMenu.css';
+
+@import '../lib/onoffcanvas/onoffcanvas.css';
+
+@import '../lib/animate.css/animate.css';
+
+@import '../css/booking.css';
+
+@import '../css/custom.css';
+
+@import '../css/user.css';
