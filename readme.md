@@ -67,8 +67,6 @@ clear cache and config
 - php artisan cache:clear
 - php artisan config:clear
 
-If "
-
 If user table name changed, need to change in "tymon/config/config.php"
 ```php
 'user' => 'App\HbUser',
@@ -87,6 +85,7 @@ https://github.com/tymondesigns/jwt-auth/wiki/Installation
 
 - reference
 https://appdividend.com/2017/08/31/laravel-5-5-reactjs-tutorial/
+https://carloct.github.io/post/laravel-react-guide/
 
 to run 
 - npm run watch (watch the changes and recomplie automatically)
